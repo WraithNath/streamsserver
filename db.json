@@ -3,22 +3,44 @@
     {
       "title": "test",
       "description": "test",
+      "userId": "107717320293065337122",
       "id": 1
     },
     {
       "title": "test 2",
       "description": "test 3",
+      "userId": "107717320293065337122",
       "id": 2
     },
     {
       "title": "Another great Stream",
       "description": "Naths amazing stream",
+      "userId": "107717320293065337122",
       "id": 3
     },
     {
       "title": "test",
       "description": "test",
+      "userId": "107717320293065337122",
       "id": 4
+    },
+    {
+      "title": "Stream with Id",
+      "description": "Test",
+      "userId": "107717320293065337122",
+      "id": 5
+    },
+    {
+      "title": "Navigation Test",
+      "description": "Test",
+      "userId": "107717320293065337122",
+      "id": 6
+    },
+    {
+      "title": "Navigation Test",
+      "description": "test",
+      "userId": "107717320293065337122",
+      "id": 7
     }
   ]
 }
